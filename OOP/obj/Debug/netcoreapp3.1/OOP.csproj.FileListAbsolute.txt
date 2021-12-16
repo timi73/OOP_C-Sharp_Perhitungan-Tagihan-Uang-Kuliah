@@ -1,0 +1,14 @@
+D:\MCC\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+D:\MCC\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+D:\MCC\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+D:\MCC\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+D:\MCC\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+D:\MCC\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+D:\MCC\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.AssemblyReference.cache
+D:\MCC\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\MCC\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+D:\MCC\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+D:\MCC\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+D:\MCC\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+D:\MCC\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
+D:\MCC\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache
