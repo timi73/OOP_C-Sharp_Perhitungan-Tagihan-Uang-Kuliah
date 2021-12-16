@@ -6,7 +6,7 @@ namespace OOP
 {
     class Mahasiswa : Interface
     {
-        public int Nim { get; set; }
+        public string Nim { get; set; }
         public String Name { get; set; }
         public String Progdi { get; set; }
         public int SksAmbil { get; set; }

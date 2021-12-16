@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MCC\\OOP\\OOP\\OOP.csproj": {}
+    "D:\\MCC\\OOP\\-OOP_C-Sharp_Perhitungan-Tagihan-Uang-Kuliah\\OOP\\OOP.csproj": {}
   },
   "projects": {
-    "D:\\MCC\\OOP\\OOP\\OOP.csproj": {
+    "D:\\MCC\\OOP\\-OOP_C-Sharp_Perhitungan-Tagihan-Uang-Kuliah\\OOP\\OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MCC\\OOP\\OOP\\OOP.csproj",
+        "projectUniqueName": "D:\\MCC\\OOP\\-OOP_C-Sharp_Perhitungan-Tagihan-Uang-Kuliah\\OOP\\OOP.csproj",
         "projectName": "OOP",
-        "projectPath": "D:\\MCC\\OOP\\OOP\\OOP.csproj",
+        "projectPath": "D:\\MCC\\OOP\\-OOP_C-Sharp_Perhitungan-Tagihan-Uang-Kuliah\\OOP\\OOP.csproj",
         "packagesPath": "C:\\Users\\Timothy\\.nuget\\packages\\",
-        "outputPath": "D:\\MCC\\OOP\\OOP\\obj\\",
+        "outputPath": "D:\\MCC\\OOP\\-OOP_C-Sharp_Perhitungan-Tagihan-Uang-Kuliah\\OOP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Timothy\\AppData\\Roaming\\NuGet\\NuGet.Config",
